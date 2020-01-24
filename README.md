@@ -121,10 +121,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 ## Hands on activities
 | Number | Date | Material |
 |----|----|----|
-|  01  | 09/12/2019 | |
-|  02  | 09/26/2019 | |
-|  03  | 10/22/2019 | |
-|  04  | 11/07/2019 | |
+
 
 ## Assignments
 
