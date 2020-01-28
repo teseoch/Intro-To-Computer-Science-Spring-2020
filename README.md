@@ -60,8 +60,8 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Processing](https://processing.org/) -->
 
 ### Slides
-<!-- - [Welcome](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture1-welcome.pdf)
-- [Introduction](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture2-intro.pdf)
+ - [Welcome](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture1-welcome.pdf)
+<!--- [Introduction](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture2-intro.pdf)
 - [Mathematical functions, characters, strings, looping](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture3-math.pdf)
 - [Methods](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture4-methods.pdf)
 - [Single dimensional arrays](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture5-arrays.pdf)
@@ -80,7 +80,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 ### Part 1: Fundamentals of Programming
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
-| 01 | 01/27/2019 | Introduction to computers, programs and Java, command line basics | 1 |  |
+| 01 | 01/27/2019 | Introduction to computers, programs and Java, command line basics | 1 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture1-welcome.pdf) |
 | 02 | 01/30/2019 | Primitive data types, program structure, control flow, input/output| 2-3 | |
 | 03 | 02/04/2019 | Mathematical functions, characters, strings, looping| 4-5 |  |
 |    | 02/06/2019 | Hands on | |  |
