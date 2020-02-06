@@ -121,7 +121,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 ## Hands on activities
 | Number | Date | Material |
 |----|----|----|
-| 01 | 02/06/2020 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/handson1.pdf) [MCPi](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/material/slides/MCPi.java) [Triangle](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/material/slides/Triangle.java) |
+| 01 | 02/06/2020 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/handson1.pdf) [MCPi](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/material/MCPi.java) [Triangle](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/material/Triangle.java) |
 
 
 ## Assignments
