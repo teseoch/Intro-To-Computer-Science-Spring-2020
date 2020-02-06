@@ -62,8 +62,8 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 ### Slides
  - [Welcome](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture1-welcome.pdf)
 [Introduction](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture2-intro.pdf)
-<!--- - [Mathematical functions, characters, strings, looping](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture3-math.pdf)
-- [Methods](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture4-methods.pdf)
+- [Mathematical functions, characters, strings, looping](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture3-math.pdf)
+<!--- - [Methods](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture4-methods.pdf)
 - [Single dimensional arrays](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture5-arrays.pdf)
 - [Two dimensional arrays](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture6-ndarrays.pdf)
 - [Objects and classes](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture7-objects.pdf)
@@ -82,8 +82,8 @@ The course schedule is tentative and *will* be adjusted along the way.
 |----|----|----|----|----|
 | 01 | 01/27/2019 | Introduction to computers, programs and Java, command line basics | 1 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture1-welcome.pdf) |
 | 02 | 01/30/2019 | Primitive data types, program structure, control flow, input/output| 2-3 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture2-intro.pdf) |
-| 03 | 02/04/2019 | Mathematical functions, characters, strings, looping| 4-5 |  |
-|    | 02/06/2019 | Hands on | |  |
+| 03 | 02/04/2019 | Mathematical functions, characters, strings, looping| 4-5 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture3-math.pdf) |
+|    | 02/06/2019 | Hands on | | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/handson1.pdf) |
 | 04 | 02/11/2019 | Methods | 6 | |
 | 05 | 02/13/2019 | Single dimensional arrays | 7 |  |
 | 06 | 02/18/2019 | Two dimensional arrays | 8 | |
@@ -121,6 +121,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 ## Hands on activities
 | Number | Date | Material |
 |----|----|----|
+| 01 | 02/06/2020 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/handson1.pdf) [MCPi](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/material/slides/MCPi.java) [Triangle](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/material/slides/Triangle.java) |
 
 
 ## Assignments
@@ -128,4 +129,4 @@ The course schedule is tentative and *will* be adjusted along the way.
 | Number | Date | Due date| link |
 |----|----|----|----|
 | 01 | 01/30/2020 | 02/04/2020 | [Assigment 1](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/assignments/Assignment1.pdf) |
-
+| 02 | 02/06/2020 | 02/11/2020 | [Assigment 2](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/assignments/Assignment2.pdf) |
