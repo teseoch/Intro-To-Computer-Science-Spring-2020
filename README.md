@@ -87,7 +87,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 04 | 02/11/2019 | Methods | 6 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture4-methods.pdf) |
 | 05 | 02/13/2019 | Single dimensional arrays | 7 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture5-arrays.pdf) |
 | 06 | 02/18/2019 | Two dimensional arrays | 8 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture6-ndarrays.pdf) |
-|    | 02/20/2019 | Hands on | |  |
+|    | 02/20/2019 | Hands on | | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/handson2.pdf) |
 | 07 | 02/25/2019 | Midterm 1 review | 1-8 | |
 | 08 | 02/27/2019 | Midterm 1 |  | |
 
@@ -122,7 +122,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | Number | Date | Material |
 |----|----|----|
 | 01 | 02/06/2020 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/handson1.pdf) [MCPi](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2020/master/material/MCPi.java) [Triangle](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2020/master/material/Triangle.java) |
-
+| 02 | 02/20/2020 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/handson2.pdf) [GOL.java](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2020/master/material/GOL.java) |
 
 ## Assignments
 
