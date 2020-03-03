@@ -66,8 +66,8 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Methods](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture4-methods.pdf)
 - [Single dimensional arrays](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture5-arrays.pdf)
 - [Two dimensional arrays](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture6-ndarrays.pdf)
-<!--- - [Objects and classes](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture7-objects.pdf)
-- [Object oriented thinking](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture8-thinkingoo.pdf)
+- [Objects and classes](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture7-objects.pdf)
+<!--- - [Object oriented thinking](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture8-thinkingoo.pdf)
 - [Inheritance and Polymorphism](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture9-polymorphism.pdf)
 - [Abstract Classes and Interfaces](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture10-interfaces.pdf)
 - [Exception and Text IO](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture11-exception-IO.pdf) -->
@@ -80,42 +80,42 @@ The course schedule is tentative and *will* be adjusted along the way.
 ### Part 1: Fundamentals of Programming
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
-| 01 | 01/27/2019 | Introduction to computers, programs and Java, command line basics | 1 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture1-welcome.pdf) |
-| 02 | 01/30/2019 | Primitive data types, program structure, control flow, input/output| 2-3 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture2-intro.pdf) |
-| 03 | 02/04/2019 | Mathematical functions, characters, strings, looping| 4-5 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture3-math.pdf) |
-|    | 02/06/2019 | Hands on | | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/handson1.pdf) |
-| 04 | 02/11/2019 | Methods | 6 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture4-methods.pdf) |
-| 05 | 02/13/2019 | Single dimensional arrays | 7 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture5-arrays.pdf) |
-| 06 | 02/18/2019 | Two dimensional arrays | 8 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture6-ndarrays.pdf) |
-|    | 02/20/2019 | Hands on | | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/handson2.pdf) |
-| 07 | 02/25/2019 | Midterm 1 review | 1-8 | |
-| 08 | 02/27/2019 | Midterm 1 |  | |
+| 01 | 01/27/2020 | Introduction to computers, programs and Java, command line basics | 1 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture1-welcome.pdf) |
+| 02 | 01/30/2020 | Primitive data types, program structure, control flow, input/output| 2-3 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture2-intro.pdf) |
+| 03 | 02/04/2020 | Mathematical functions, characters, strings, looping| 4-5 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture3-math.pdf) |
+|    | 02/06/2020 | Hands on | | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/handson1.pdf) |
+| 04 | 02/11/2020 | Methods | 6 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture4-methods.pdf) |
+| 05 | 02/13/2020 | Single dimensional arrays | 7 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture5-arrays.pdf) |
+| 06 | 02/18/2020 | Two dimensional arrays | 8 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture6-ndarrays.pdf) |
+|    | 02/20/2020 | Hands on | | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/handson2.pdf) |
+| 07 | 02/25/2020 | Midterm 1 review | 1-8 | |
+| 08 | 02/27/2020 | Midterm 1 |  | |
 
 ### Part 2: Object oriented programming and design
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
-| 09 | 03/03/2019 | Objects and classes | 9 |  |
-|    | 03/05/2019 | Midterm discussion | | |
-|    | 03/10/2019 | Objects and classes | 9 | |
-| 10 | 03/12/2019 | Hands on |  |  |
-| 11 | 03/24/2019 | Object oriented thinking | 10 |  |
-| 12 | 03/26/2019 | Object oriented thinking | 10 |  |
-| 13 | 03/31/2019 | Midterm 2 review | 1-10 | |
-| 14 | 04/02/2019 | Midterm 2 | | |
+| 09 | 03/03/2020 | Objects and classes | 9 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture7-objects.pdf) |
+|    | 03/05/2020 | Objects and classes | 9 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture7-objects.pdf) |
+|    | 03/10/2020 | Midterm discussion | | |
+| 10 | 03/12/2020 | Hands on |  |  |
+| 11 | 03/24/2020 | Object oriented thinking | 10 |  |
+| 12 | 03/26/2020 | Object oriented thinking | 10 |  |
+| 13 | 03/31/2020 | Midterm 2 review | 1-10 | |
+| 14 | 04/02/2020 | Midterm 2 | | |
 
 ### Part 3: Advanced concepts
 
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
-|    | 04/07/2019 | Hands on | ||
-| 15 | 04/09/2019 | Inheritance and polymorphism | 11 | |
-| 16 | 04/14/2019 | Inheritance and polymorphism | 11 |  |
-|    | 04/16/2019 | Midterm discussion | | |
-| 17 | 04/21/2019 | Abstract classes and interfaces | 13 | |
-| 18 | 04/23/2019 | Abstract classes and interfaces | 13 | |
-| 19 | 04/28/2019 | Exception handling and text I/O | 12 | |
-| 20 | 05/05/2019 | Exception handling and text I/O | 12 | |
-| 21 | 05/07/2019 | Review for the final exam | 1-13 | |
+|    | 04/07/2020 | Hands on | ||
+| 15 | 04/09/2020 | Inheritance and polymorphism | 11 | |
+| 16 | 04/14/2020 | Inheritance and polymorphism | 11 |  |
+|    | 04/16/2020 | Midterm discussion | | |
+| 17 | 04/21/2020 | Abstract classes and interfaces | 13 | |
+| 18 | 04/23/2020 | Abstract classes and interfaces | 13 | |
+| 19 | 04/28/2020 | Exception handling and text I/O | 12 | |
+| 20 | 05/05/2020 | Exception handling and text I/O | 12 | |
+| 21 | 05/07/2020 | Review for the final exam | 1-13 | |
 
 
 ## Hands on activities
@@ -132,3 +132,4 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 02 | 02/06/2020 | 02/11/2020 | [Assigment 2](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/assignments/Assignment2.pdf) |
 | 03 | 02/13/2020 | 02/18/2020 | [Assigment 3](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/assignments/Assignment3.pdf) [ASCII Art](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/assignments/Assignment3.txt) |
 | 04 | 02/20/2020 | 02/25/2020 | [Assigment 4](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/assignments/Assignment4.pdf) |
+| 05 | 03/05/2020 | 03/10/2020 | [Assigment 5](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/assignments/Assignment5.pdf) |
