@@ -97,25 +97,25 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 09 | 03/03/2020 | Objects and classes | 9 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture7-objects.pdf) |
 |    | 03/05/2020 | Objects and classes | 9 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture7-objects.pdf) |
 |    | 03/10/2020 | Midterm discussion | | |
-| 10 | 03/12/2020 | Hands on |  |  |
-| 11 | 03/24/2020 | Object oriented thinking | 10 |  |
-| 12 | 03/26/2020 | Object oriented thinking | 10 |  |
-| 13 | 03/31/2020 | Midterm 2 review | 1-10 | |
-| 14 | 04/02/2020 | Midterm 2 | | |
+|    | 03/12/2020 | Hands on |  |  |
+| 10 | 03/24/2020 | Object oriented thinking | 10 |  |
+| 11 | 03/26/2020 | Object oriented thinking | 10 |  |
+| 12 | 03/31/2020 | Midterm 2 review | 1-10 | |
+| 13 | 04/02/2020 | Midterm 2 | | |
 
 ### Part 3: Advanced concepts
 
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
 |    | 04/07/2020 | Hands on | ||
-| 15 | 04/09/2020 | Inheritance and polymorphism | 11 | |
-| 16 | 04/14/2020 | Inheritance and polymorphism | 11 |  |
+| 14 | 04/09/2020 | Inheritance and polymorphism | 11 | |
+| 15 | 04/14/2020 | Inheritance and polymorphism | 11 |  |
 |    | 04/16/2020 | Midterm discussion | | |
-| 17 | 04/21/2020 | Abstract classes and interfaces | 13 | |
-| 18 | 04/23/2020 | Abstract classes and interfaces | 13 | |
-| 19 | 04/28/2020 | Exception handling and text I/O | 12 | |
-| 20 | 05/05/2020 | Exception handling and text I/O | 12 | |
-| 21 | 05/07/2020 | Review for the final exam | 1-13 | |
+| 16 | 04/21/2020 | Abstract classes and interfaces | 13 | |
+| 17 | 04/23/2020 | Abstract classes and interfaces | 13 | |
+| 18 | 04/28/2020 | Exception handling and text I/O | 12 | |
+| 19 | 05/05/2020 | Exception handling and text I/O | 12 | |
+| 20 | 05/07/2020 | Review for the final exam | 1-13 | |
 
 
 ## Hands on activities
@@ -133,3 +133,4 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 03 | 02/13/2020 | 02/18/2020 | [Assigment 3](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/assignments/Assignment3.pdf) [ASCII Art](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/assignments/Assignment3.txt) |
 | 04 | 02/20/2020 | 02/25/2020 | [Assigment 4](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/assignments/Assignment4.pdf) |
 | 05 | 03/05/2020 | 03/10/2020 | [Assigment 5](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/assignments/Assignment5.pdf) |
+| Project | 03/12/2020 | 03/26/2020 | [Project](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/assignments/Assignment5.pdf) |
