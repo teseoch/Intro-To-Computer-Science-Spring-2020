@@ -133,4 +133,4 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 03 | 02/13/2020 | 02/18/2020 | [Assigment 3](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/assignments/Assignment3.pdf) [ASCII Art](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/assignments/Assignment3.txt) |
 | 04 | 02/20/2020 | 02/25/2020 | [Assigment 4](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/assignments/Assignment4.pdf) |
 | 05 | 03/05/2020 | 03/10/2020 | [Assigment 5](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/assignments/Assignment5.pdf) |
-| Project | 03/12/2020 | 03/26/2020 | [Project](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/assignments/Assignment5.pdf) |
+| Project | 03/12/2020 | 03/26/2020 | [Project](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/assignments/Project.pdf) |
