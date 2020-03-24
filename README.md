@@ -121,9 +121,8 @@ The course schedule is tentative and *will* be adjusted along the way.
 | Number | Date | Material |
 |----|----|----|
 | 01 | 02/06/2020 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/handson1.pdf) [MCPi](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2020/master/material/MCPi.java) [Triangle](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2020/master/material/Triangle.java) |
-| 02 | 02/20/2020 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/
-slides/handson2.pdf) [GOL.java](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2020/master/material/GOL.java) |
-| 03 | 03/12/2020 | [GOLProcessing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2020/master/material/GOLProcessing.java) |
+| 02 | 02/20/2020 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/handson2.pdf) [GOL.java](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2020/master/material/GOL.java) |
+| 03 | 03/12/2020 | [GOLProcessing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2020/master/material/GOLProcessing.zip) |
 
 ## Assignments
 
