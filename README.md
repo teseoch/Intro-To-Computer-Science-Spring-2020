@@ -66,8 +66,8 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Single dimensional arrays](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture5-arrays.pdf)
 - [Two dimensional arrays](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture6-ndarrays.pdf)
 - [Objects and classes](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture7-objects.pdf)
-<!--- - [Object oriented thinking](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture8-thinkingoo.pdf)
-- [Inheritance and Polymorphism](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture9-polymorphism.pdf)
+- [Object oriented thinking](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture8-thinkingoo.pdf)
+<!--- - [Inheritance and Polymorphism](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture9-polymorphism.pdf)
 - [Abstract Classes and Interfaces](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture10-interfaces.pdf)
 - [Exception and Text IO](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture11-exception-IO.pdf) -->
 
@@ -97,8 +97,8 @@ The course schedule is tentative and *will* be adjusted along the way.
 |    | 03/05/2020 | Objects and classes | 9 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture7-objects.pdf) |
 |    | 03/10/2020 | Midterm discussion | | |
 |    | 03/12/2020 | Hands on |  |  |
-| 10 | 03/24/2020 | Object oriented thinking | 10 |  |
-| 11 | 03/26/2020 | Object oriented thinking | 10 |  |
+| 10 | 03/24/2020 | Object oriented thinking | 10 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture8-thinkingoo.pdf) |
+| 11 | 03/26/2020 | Object oriented thinking | 10 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture8-thinkingoo.pdf) |
 | 12 | 03/31/2020 | Midterm 2 review | 1-10 | |
 | 13 | 04/02/2020 | Midterm 2 | | |
 
