@@ -94,24 +94,24 @@ The course schedule is tentative and *will* be adjusted along the way.
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
 | 09 | 03/03/2020 | Objects and classes | 9 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture7-objects.pdf) |
-|    | 03/05/2020 | Objects and classes | 9 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture7-objects.pdf) |
+| 10  | 03/05/2020 | Objects and classes | 9 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture7-objects.pdf) |
 |    | 03/10/2020 | Midterm discussion | | |
 |    | 03/12/2020 | Hands on |  |  |
-| 10 | 03/24/2020 | Object oriented thinking | 10 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture8-thinkingoo.pdf) |
-| 11 | 03/26/2020 | Object oriented thinking | 10 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture8-thinkingoo.pdf) |
-| 12 | 03/31/2020 | Midterm 2 review | 1-10 | |
-| 13 | 04/02/2020 | Midterm 2 | | |
+| 11 | 03/24/2020 | Object oriented thinking | 10 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture8-thinkingoo.pdf) |
+| 12 | 03/26/2020 | Object oriented thinking | 10 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture8-thinkingoo.pdf) |
+| 13 | 03/31/2020 | Midterm 2 review | 1-10 | |
+|    | 04/02/2020 | Midterm 2 | | |
 
 ### Part 3: Advanced concepts
 
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
-|    | 04/07/2020 | Hands on | ||
-| 14 | 04/09/2020 | Inheritance and polymorphism | 11 | |
-| 15 | 04/14/2020 | Inheritance and polymorphism | 11 |  |
-|    | 04/16/2020 | Midterm discussion | | |
-| 16 | 04/21/2020 | Abstract classes and interfaces | 13 | |
-| 17 | 04/23/2020 | Abstract classes and interfaces | 13 | |
+| 14 | 04/07/2020 | Inheritance and polymorphism | 11 | |
+| 15 | 04/09/2020 | Inheritance and polymorphism | 11 |  |
+|    | 04/14/2020 | Midterm discussion | | |
+| 16 | 04/16/2020 | Abstract classes and interfaces | 13 | |
+| 17 | 04/21/2020 | Abstract classes and interfaces | 13 | |
+|    | 04/23/2020 | Hands on | ||
 | 18 | 04/28/2020 | Exception handling and text I/O | 12 | |
 | 19 | 05/05/2020 | Exception handling and text I/O | 12 | |
 | 20 | 05/07/2020 | Review for the final exam | 1-13 | |
