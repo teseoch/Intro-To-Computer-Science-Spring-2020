@@ -67,8 +67,8 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Two dimensional arrays](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture6-ndarrays.pdf)
 - [Objects and classes](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture7-objects.pdf)
 - [Object oriented thinking](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture8-thinkingoo.pdf)
-<!--- - [Inheritance and Polymorphism](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture9-polymorphism.pdf)
-- [Abstract Classes and Interfaces](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture10-interfaces.pdf)
+- [Inheritance and Polymorphism](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture9-polymorphism.pdf)
+<!--- - [Abstract Classes and Interfaces](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture10-interfaces.pdf)
 - [Exception and Text IO](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture11-exception-IO.pdf) -->
 
 
@@ -106,8 +106,8 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
-| 14 | 04/07/2020 | Inheritance and polymorphism | 11 | |
-| 15 | 04/09/2020 | Inheritance and polymorphism | 11 |  |
+| 14 | 04/07/2020 | Inheritance and polymorphism | 11 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture9-polymorphism.pdf) |
+| 15 | 04/09/2020 | Inheritance and polymorphism | 11 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture9-polymorphism.pdf) |
 |    | 04/14/2020 | Midterm discussion | | |
 | 16 | 04/16/2020 | Abstract classes and interfaces | 13 | |
 | 17 | 04/21/2020 | Abstract classes and interfaces | 13 | |
@@ -134,3 +134,4 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 04 | 02/20/2020 | 02/25/2020 | [Assigment 4](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/assignments/Assignment4.pdf) |
 | 05 | 03/05/2020 | 03/10/2020 | [Assigment 5](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/assignments/Assignment5.pdf) |
 | Project | 03/12/2020 | 03/26/2020 | [Project](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/assignments/Project.pdf) |
+| 06 | 04/09/2020 | 04/14/2020 | [Assigment 6](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/assignments/Assignment6.pdf) |
