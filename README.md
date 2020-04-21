@@ -68,8 +68,8 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Objects and classes](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture7-objects.pdf)
 - [Object oriented thinking](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture8-thinkingoo.pdf)
 - [Inheritance and Polymorphism](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture9-polymorphism.pdf)
-<!--- - [Abstract Classes and Interfaces](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture10-interfaces.pdf)
-- [Exception and Text IO](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture11-exception-IO.pdf) -->
+- [Abstract Classes and Interfaces](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture10-interfaces.pdf)
+<!--- - [Exception and Text IO](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture11-exception-IO.pdf) -->
 
 
 ## Schedule and Course Notes:
@@ -109,8 +109,8 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 14 | 04/07/2020 | Inheritance and polymorphism | 11 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture9-polymorphism.pdf) |
 | 15 | 04/09/2020 | Inheritance and polymorphism | 11 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture9-polymorphism.pdf) |
 |    | 04/14/2020 | Midterm discussion | | |
-| 16 | 04/16/2020 | Abstract classes and interfaces | 13 | |
-| 17 | 04/21/2020 | Abstract classes and interfaces | 13 | |
+| 16 | 04/16/2020 | Abstract classes and interfaces | 13 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture10-interfaces.pdf) |
+| 17 | 04/21/2020 | Abstract classes and interfaces | 13 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture10-interfaces.pdf) |
 |    | 04/23/2020 | Hands on | ||
 | 18 | 04/28/2020 | Exception handling and text I/O | 12 | |
 | 19 | 05/05/2020 | Exception handling and text I/O | 12 | |
