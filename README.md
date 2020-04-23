@@ -69,7 +69,7 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Object oriented thinking](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture8-thinkingoo.pdf)
 - [Inheritance and Polymorphism](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture9-polymorphism.pdf)
 - [Abstract Classes and Interfaces](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture10-interfaces.pdf)
-<!--- - [Exception and Text IO](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture11-exception-IO.pdf) -->
+- [Exception and Text IO](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture11-exception-IO.pdf)
 
 
 ## Schedule and Course Notes:
@@ -112,8 +112,8 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 16 | 04/16/2020 | Abstract classes and interfaces | 13 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture10-interfaces.pdf) |
 | 17 | 04/21/2020 | Abstract classes and interfaces | 13 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture10-interfaces.pdf) |
 |    | 04/23/2020 | Hands on | ||
-| 18 | 04/28/2020 | Exception handling and text I/O | 12 | |
-| 19 | 05/05/2020 | Exception handling and text I/O | 12 | |
+| 18 | 04/28/2020 | Exception handling and text I/O | 12 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture11-exception-IO.pdf) |
+| 19 | 05/05/2020 | Exception handling and text I/O | 12 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture11-exception-IO.pdf) |
 | 20 | 05/07/2020 | Review for the final exam | 1-13 | |
 
 
@@ -135,3 +135,4 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 05 | 03/05/2020 | 03/10/2020 | [Assigment 5](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/assignments/Assignment5.pdf) |
 | Project | 03/12/2020 | 03/26/2020 | [Project](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/assignments/Project.pdf) |
 | 06 | 04/09/2020 | 04/14/2020 | [Assigment 6](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/assignments/Assignment6.pdf) |
+| 07 | 04/23/2020 | 04/28/2020 | [Assigment 7](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/assignments/Assignment7.pdf) |
